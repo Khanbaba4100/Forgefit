@@ -22,3 +22,4 @@ Data stays in this browser on this device; there is no cloud sync. Export backup
 5. Open the GitHub Pages URL when published.
 6. In iPhone Safari, tap Share → Add to Home Screen.
 7. Open ForgeFit once online so the service worker caches the app shell before trying offline mode.
+8. ForgeFit website deployment update
